@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+    background-image: url('/Images/BG.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    font-family: 'lato', sans-serif;
+}
